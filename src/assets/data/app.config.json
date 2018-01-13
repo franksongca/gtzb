@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0-alpha",
+  "appTitle": "text-app-title",
+  "menu": {
+    "root": [
+      {
+        "id": "home",
+        "local-tag": "text-home"
+      }, {
+        "id": "inherit",
+        "local-tag": "text-inherit",
+        "sub": [
+          {
+            "id": "cc-gdbdx",
+            "local-tag": "text-gdbdx"
+          },
+          {
+            "id": "cc-lsnb",
+            "local-tag": "text-lsnb"
+          },
+          {
+            "id": "cc-gtsszbsx",
+            "local-tag": "text-gtsszbsx"
+          },
+          {
+            "id": "cc-ldzs",
+            "local-tag": "text-ldzs"
+          },
+          {
+            "id": "cc-dwszb",
+            "local-tag": "text-dwszb"
+          }
+        ]
+      }, {
+        "id": "sutra",
+        "local-tag": "text-sutra"
+      }
+    ]
+  }
+}
